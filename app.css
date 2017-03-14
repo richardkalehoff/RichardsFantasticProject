@@ -33,3 +33,12 @@ h1.active {
     transform: rotate(360deg);
     transition: transform 0.5s;
 }
+
+footer {
+    text-align: center;
+    border-top: 1px solid darkblue;
+    padding-top: 1.5vh;
+    position: absolute;
+    bottom: 1em;
+    width: 100%;
+}
